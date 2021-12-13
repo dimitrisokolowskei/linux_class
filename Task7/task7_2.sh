@@ -9,6 +9,6 @@ do
 ncbi-genome-download -A $i -F fasta --flat-output $TYPE
 done
 
-#mafft --auto multi_samples.faa > multi_samples_alignment.fasta
-#mafft --auto --clustalout multi_samples.faa > multi_samples_alignment.clustal
+mafft --auto multi_samples.faa > multi_samples_alignment.fasta
+mafft --auto --clustalout multi_samples.faa > multi_samples_alignment.clustal
 
