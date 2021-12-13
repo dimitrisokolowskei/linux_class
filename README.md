@@ -8,3 +8,4 @@ To run the *scripts* some pieces of *software* will be required:
 - [EMBOSS](http://emboss.open-bio.org/): EMBOSS comprises a diversity of bioinformatic *softwares* and tools for a wide range of analysis. 
 - [entrez-direct](https://www.ncbi.nlm.nih.gov/books/NBK179288/): Tool used to acess NCBI databases throught UNIX terminal.
 - [MAFFT](https://mafft.cbrc.jp/alignment/software/): Consists in a major multiple sequence alignment program for *web* and UNIX-like systems.
+- [Blast](https://www.ncbi.nlm.nih.gov/books/NBK569839/): BLAST Alignment tool for command-lines.
